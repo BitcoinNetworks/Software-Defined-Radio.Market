@@ -2,3 +2,5 @@
 - https://www.ebay.co.uk/itm/127159750533
 - https://www.ebay.co.uk/itm/127319545779
 - [SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with2165](https://www.ebay.co.uk/itm/306675381746)
+- [RTL-SDR Blog R820T2 RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only)#](https://www.ebay.co.uk/itm/357655328779)
+- [Software Defined Radio Sdr Kit Tv Scanner Receiver Rtl2832U R820T2 Full Band](https://www.ebay.co.uk/itm/388951637808)

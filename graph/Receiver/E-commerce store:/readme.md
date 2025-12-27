@@ -1,1 +1,1 @@
-- [Software Defined Radio Receiver USB Stick - RTL2832 with FC0013](
+- [Software Defined Radio Receiver USB Stick - RTL2832 with FC0013](https://thepihut.com/products/software-defined-radio-receiver-usb-stick-rtl2832-w-r820t)

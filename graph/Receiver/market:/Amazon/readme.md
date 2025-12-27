@@ -1,1 +1,2 @@
 - [Software Defined Radio, Full Band Receiver RTL-SDR Radio Communication System 0.1MHz‑1.7GHz for XP / Win10 / Android for Software Defined Radio (RTL-SDR) Applications](https://www.amazon.co.uk/Software-Receiver-Communication-0-1MHz%E2%80%911-7GHz-Applications/dp/B0BVBQ9D3R)
+- [RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only)](https://www.amazon.co.uk/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD745394)
